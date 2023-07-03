@@ -1,0 +1,13 @@
+Q1) Time complexity--o(N+M)
+    Space complexity--o(1)
+
+Q2) Time complexity--o(n*2)
+
+
+Q3)Time complexity--o(nlogn)
+
+
+Q4)Time complexity-->o(logn)
+
+
+Q5)Time complexity-->o(logkn)
